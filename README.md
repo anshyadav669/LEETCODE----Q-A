@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0179-largest-number](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0179-largest-number) |
 | [0726-number-of-atoms](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0726-number-of-atoms) |
+| [3536-maximum-product-of-two-digits](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/3536-maximum-product-of-two-digits) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 ## Hash Table
 |  |
@@ -96,4 +97,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0022-generate-parentheses) |
+## Math
+|  |
+| ------- |
+| [3536-maximum-product-of-two-digits](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/3536-maximum-product-of-two-digits) |
 <!---LeetCode Topics End-->
