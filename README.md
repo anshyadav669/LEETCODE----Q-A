@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2938-separate-black-and-white-balls](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/2938-separate-black-and-white-balls) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Greedy
 |  |
 | ------- |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0068-text-justification](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0068-text-justification) |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Counting Sort
 |  |
 | ------- |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0151-reverse-words-in-a-string) |
 | [2938-separate-black-and-white-balls](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/2938-separate-black-and-white-balls) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Bit Manipulation
 |  |
 | ------- |
