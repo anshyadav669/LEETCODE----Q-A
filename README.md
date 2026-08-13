@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2594-minimum-time-to-repair-cars](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/2594-minimum-time-to-repair-cars) |
+| [2951-find-the-peaks](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/2951-find-the-peaks) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2951-find-the-peaks](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/2951-find-the-peaks) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Bucket Sort
 |  |
