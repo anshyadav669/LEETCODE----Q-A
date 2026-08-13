@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0071-simplify-path) |
 | [0151-reverse-words-in-a-string](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0179-largest-number) |
+| [0208-implement-trie-prefix-tree](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0208-implement-trie-prefix-tree) |
 | [0387-first-unique-character-in-a-string](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0387-first-unique-character-in-a-string) |
 | [0726-number-of-atoms](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0726-number-of-atoms) |
 | [0748-shortest-completing-word](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0748-shortest-completing-word) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0208-implement-trie-prefix-tree) |
 | [0387-first-unique-character-in-a-string](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0387-first-unique-character-in-a-string) |
 | [0726-number-of-atoms](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0726-number-of-atoms) |
 | [0748-shortest-completing-word](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0748-shortest-completing-word) |
@@ -266,4 +268,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0387-first-unique-character-in-a-string) |
+## Design
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0208-implement-trie-prefix-tree) |
+## Trie
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->
