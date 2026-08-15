@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0202-happy-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0208-implement-trie-prefix-tree) |
 | [0387-first-unique-character-in-a-string](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0387-first-unique-character-in-a-string) |
 | [0491-non-decreasing-subsequences](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0491-non-decreasing-subsequences) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0202-happy-number) |
 | [0486-predict-the-winner](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0877-stone-game) |
 | [1510-stone-game-iv](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/1510-stone-game-iv) |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0151-reverse-words-in-a-string) |
+| [0202-happy-number](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0202-happy-number) |
 | [2938-separate-black-and-white-balls](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/2938-separate-black-and-white-balls) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
@@ -283,4 +286,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0208-implement-trie-prefix-tree) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
