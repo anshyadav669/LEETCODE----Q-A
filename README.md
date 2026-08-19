@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0179-largest-number](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0179-largest-number) |
+| [0200-number-of-islands](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0200-number-of-islands) |
 | [0220-contains-duplicate-iii](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0220-contains-duplicate-iii) |
 | [0238-product-of-array-except-self](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0238-product-of-array-except-self) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0547-number-of-provinces) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0200-number-of-islands) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Shortest Path
@@ -158,12 +161,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0547-number-of-provinces) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3310-remove-methods-from-project](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/3310-remove-methods-from-project) |
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0547-number-of-provinces) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Dynamic Programming
