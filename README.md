@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0907-sum-of-subarray-minimums) |
 | [1200-minimum-absolute-difference](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/1200-minimum-absolute-difference) |
+| [1386-cinema-seat-allocation](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/1386-cinema-seat-allocation) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0179-largest-number) |
+| [1386-cinema-seat-allocation](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/1386-cinema-seat-allocation) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2938-separate-black-and-white-balls](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/2938-separate-black-and-white-balls) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0726-number-of-atoms](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0726-number-of-atoms) |
 | [0748-shortest-completing-word](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0748-shortest-completing-word) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1386-cinema-seat-allocation](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/1386-cinema-seat-allocation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -228,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0491-non-decreasing-subsequences](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0491-non-decreasing-subsequences) |
+| [1386-cinema-seat-allocation](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/1386-cinema-seat-allocation) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Game Theory
 |  |
