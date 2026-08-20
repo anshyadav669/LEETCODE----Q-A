@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0071-simplify-path) |
 | [0151-reverse-words-in-a-string](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0179-largest-number) |
+| [0187-repeated-dna-sequences](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0187-repeated-dna-sequences) |
 | [0208-implement-trie-prefix-tree](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0208-implement-trie-prefix-tree) |
 | [0387-first-unique-character-in-a-string](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0387-first-unique-character-in-a-string) |
 | [0726-number-of-atoms](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0726-number-of-atoms) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0142-linked-list-cycle-ii) |
+| [0187-repeated-dna-sequences](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0187-repeated-dna-sequences) |
 | [0202-happy-number](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0202-happy-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0208-implement-trie-prefix-tree) |
 | [0387-first-unique-character-in-a-string](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0387-first-unique-character-in-a-string) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0187-repeated-dna-sequences) |
 | [0220-contains-duplicate-iii](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0220-contains-duplicate-iii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -239,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0187-repeated-dna-sequences) |
 | [0491-non-decreasing-subsequences](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0491-non-decreasing-subsequences) |
 | [1386-cinema-seat-allocation](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/1386-cinema-seat-allocation) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -324,4 +328,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Rolling Hash
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0187-repeated-dna-sequences) |
+## Hash Function
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0187-repeated-dna-sequences) |
+## Z Algorithm
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0187-repeated-dna-sequences) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
