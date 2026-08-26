@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/2710-remove-trailing-zeros-from-a-string) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2938-separate-black-and-white-balls](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/2938-separate-black-and-white-balls) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0187-repeated-dna-sequences) |
 | [0220-contains-duplicate-iii](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0220-contains-duplicate-iii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Breadth-First Search
