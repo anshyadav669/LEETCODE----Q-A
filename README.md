@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0220-contains-duplicate-iii](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0220-contains-duplicate-iii) |
 | [0238-product-of-array-except-self](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0238-product-of-array-except-self) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0416-partition-equal-subset-sum](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0486-predict-the-winner) |
 | [0491-non-decreasing-subsequences](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0491-non-decreasing-subsequences) |
 | [0733-flood-fill](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0733-flood-fill) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0022-generate-parentheses) |
+| [0416-partition-equal-subset-sum](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0907-sum-of-subarray-minimums) |
@@ -391,4 +393,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0416-partition-equal-subset-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
