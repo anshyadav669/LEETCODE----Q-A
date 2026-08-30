@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2594-minimum-time-to-repair-cars](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/2594-minimum-time-to-repair-cars) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2951-find-the-peaks](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/2951-find-the-peaks) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0726-number-of-atoms](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0726-number-of-atoms) |
 | [1200-minimum-absolute-difference](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/1200-minimum-absolute-difference) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0547-number-of-provinces) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
