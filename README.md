@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3354-make-array-elements-equal-to-zero](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/3354-make-array-elements-equal-to-zero) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/3731-find-missing-elements) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3731-find-missing-elements](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/3731-find-missing-elements) |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3310-remove-methods-from-project](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/3310-remove-methods-from-project) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Graph Theory
 |  |
 | ------- |
@@ -172,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0733-flood-fill](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0733-flood-fill) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Shortest Path
 |  |
 | ------- |
@@ -280,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/1386-cinema-seat-allocation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Game Theory
 |  |
 | ------- |
