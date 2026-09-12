@@ -11,10 +11,8 @@ public:
                 if (color[it] == -1) {
                     color[it] = !color[node];
                     q.push(it);
-                } else {
-                    if (color[it] == color[node]) {
-                        return false;
-                    }
+                } else if (color[it] == color[node]) {
+                    return false;
                 }
             }
         }
