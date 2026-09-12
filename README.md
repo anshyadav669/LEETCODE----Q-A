@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0733-flood-fill) |
+| [0785-is-graph-bipartite](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0785-is-graph-bipartite) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0785-is-graph-bipartite) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0733-flood-fill) |
+| [0785-is-graph-bipartite](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0785-is-graph-bipartite) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -225,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0785-is-graph-bipartite) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Dynamic Programming
@@ -445,4 +449,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0416-partition-equal-subset-sum) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0785-is-graph-bipartite) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
