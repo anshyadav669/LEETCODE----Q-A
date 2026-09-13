@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0739-daily-temperatures) |
 | [0748-shortest-completing-word](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0748-shortest-completing-word) |
+| [0835-image-overlap](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0835-image-overlap) |
 | [0875-koko-eating-bananas](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0877-stone-game) |
 | [0898-bitwise-ors-of-subarrays](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0898-bitwise-ors-of-subarrays) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0200-number-of-islands) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0733-flood-fill](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0733-flood-fill) |
+| [0835-image-overlap](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0835-image-overlap) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Shortest Path
