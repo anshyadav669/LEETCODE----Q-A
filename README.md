@@ -258,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0202-happy-number](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0202-happy-number) |
 | [0486-predict-the-winner](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0486-predict-the-winner) |
+| [0836-rectangle-overlap](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0877-stone-game) |
 | [1510-stone-game-iv](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/1510-stone-game-iv) |
 | [1872-stone-game-viii](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/1872-stone-game-viii) |
@@ -459,4 +460,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0785-is-graph-bipartite) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
