@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2938-separate-black-and-white-balls](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/2938-separate-black-and-white-balls) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1927-sum-game](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/1927-sum-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2938-separate-black-and-white-balls](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/2938-separate-black-and-white-balls) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-distinct-subsequences-ii](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0940-distinct-subsequences-ii) |
 | [1510-stone-game-iv](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/1510-stone-game-iv) |
 | [1872-stone-game-viii](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/1872-stone-game-viii) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Backtracking
 |  |
@@ -306,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0151-reverse-words-in-a-string) |
 | [0202-happy-number](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0234-palindrome-linked-list) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2938-separate-black-and-white-balls](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/2938-separate-black-and-white-balls) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
