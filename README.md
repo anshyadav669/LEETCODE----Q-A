@@ -247,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0907-sum-of-subarray-minimums) |
 | [0940-distinct-subsequences-ii](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0940-distinct-subsequences-ii) |
 | [1510-stone-game-iv](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/1510-stone-game-iv) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/1872-stone-game-viii) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0877-stone-game) |
 | [1510-stone-game-iv](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/1510-stone-game-iv) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/1927-sum-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -391,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0238-product-of-array-except-self) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/1872-stone-game-viii) |
 | [3354-make-array-elements-equal-to-zero](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/3354-make-array-elements-equal-to-zero) |
 | [3903-smallest-stable-index-i](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/3903-smallest-stable-index-i) |
@@ -443,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Number Theory
 |  |
