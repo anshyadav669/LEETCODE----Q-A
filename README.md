@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/1200-minimum-absolute-difference) |
 | [1386-cinema-seat-allocation](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/1386-cinema-seat-allocation) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1872-stone-game-viii](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/1872-stone-game-viii) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0748-shortest-completing-word](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0748-shortest-completing-word) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/1386-cinema-seat-allocation) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0187-repeated-dna-sequences) |
 | [0220-contains-duplicate-iii](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0220-contains-duplicate-iii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -211,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0875-koko-eating-bananas](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0875-koko-eating-bananas) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2594-minimum-time-to-repair-cars](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/2594-minimum-time-to-repair-cars) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -246,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0898-bitwise-ors-of-subarrays](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0898-bitwise-ors-of-subarrays) |
 | [0907-sum-of-subarray-minimums](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0907-sum-of-subarray-minimums) |
 | [0940-distinct-subsequences-ii](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0940-distinct-subsequences-ii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1510-stone-game-iv](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/1510-stone-game-iv) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/1872-stone-game-viii) |
