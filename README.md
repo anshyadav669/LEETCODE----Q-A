@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2938-separate-black-and-white-balls](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/2938-separate-black-and-white-balls) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3498-reverse-degree-of-a-string](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/3498-reverse-degree-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0068-text-justification) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3354-make-array-elements-equal-to-zero](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/3354-make-array-elements-equal-to-zero) |
+| [3498-reverse-degree-of-a-string](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/3498-reverse-degree-of-a-string) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Counting Sort
 |  |
