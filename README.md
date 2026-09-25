@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0726-number-of-atoms](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0726-number-of-atoms) |
 | [0748-shortest-completing-word](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0748-shortest-completing-word) |
 | [0940-distinct-subsequences-ii](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0940-distinct-subsequences-ii) |
+| [1096-brace-expansion-ii](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/1096-brace-expansion-ii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0506-relative-ranks](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0506-relative-ranks) |
 | [0726-number-of-atoms](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0726-number-of-atoms) |
+| [1096-brace-expansion-ii](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/1096-brace-expansion-ii) |
 | [1200-minimum-absolute-difference](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/1200-minimum-absolute-difference) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0491-non-decreasing-subsequences](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0491-non-decreasing-subsequences) |
 | [0726-number-of-atoms](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0726-number-of-atoms) |
 | [0748-shortest-completing-word](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0748-shortest-completing-word) |
+| [1096-brace-expansion-ii](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/1096-brace-expansion-ii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -159,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0726-number-of-atoms](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0726-number-of-atoms) |
 | [0739-daily-temperatures](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0739-daily-temperatures) |
 | [0907-sum-of-subarray-minimums](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0907-sum-of-subarray-minimums) |
+| [1096-brace-expansion-ii](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/1096-brace-expansion-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -178,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0785-is-graph-bipartite) |
+| [1096-brace-expansion-ii](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/1096-brace-expansion-ii) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -273,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0022-generate-parentheses) |
 | [0077-combinations](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0077-combinations) |
 | [0491-non-decreasing-subsequences](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0491-non-decreasing-subsequences) |
+| [1096-brace-expansion-ii](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/1096-brace-expansion-ii) |
 ## Math
 |  |
 | ------- |
