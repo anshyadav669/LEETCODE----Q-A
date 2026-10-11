@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0056-merge-intervals) |
+| [0063-unique-paths-ii](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0063-unique-paths-ii) |
 | [0068-text-justification](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0068-text-justification) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0063-unique-paths-ii) |
 | [0130-surrounded-regions](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0200-number-of-islands) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0022-generate-parentheses) |
+| [0063-unique-paths-ii](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0063-unique-paths-ii) |
 | [0115-distinct-subsequences](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0115-distinct-subsequences) |
 | [0416-partition-equal-subset-sum](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0486-predict-the-winner) |
