@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0004-median-of-two-sorted-arrays) |
 | [0056-merge-intervals](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0063-unique-paths-ii) |
 | [0068-text-justification](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0068-text-justification) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0004-median-of-two-sorted-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0875-koko-eating-bananas](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0875-koko-eating-bananas) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -372,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0004-median-of-two-sorted-arrays) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Tree
 |  |
