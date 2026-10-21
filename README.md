@@ -288,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0898-bitwise-ors-of-subarrays](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0898-bitwise-ors-of-subarrays) |
 | [0907-sum-of-subarray-minimums](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0907-sum-of-subarray-minimums) |
 | [0940-distinct-subsequences-ii](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0940-distinct-subsequences-ii) |
+| [1137-n-th-tribonacci-number](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/1137-n-th-tribonacci-number) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1510-stone-game-iv](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/1510-stone-game-iv) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0486-predict-the-winner) |
 | [0836-rectangle-overlap](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0877-stone-game) |
+| [1137-n-th-tribonacci-number](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/1137-n-th-tribonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1510-stone-game-iv](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/1510-stone-game-iv) |
@@ -536,4 +538,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0836-rectangle-overlap](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/1401-circle-and-rectangle-overlapping) |
+## Memoization
+|  |
+| ------- |
+| [1137-n-th-tribonacci-number](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/1137-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
