@@ -308,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0009-palindrome-number) |
 | [0202-happy-number](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0231-power-of-two) |
 | [0412-fizz-buzz](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0412-fizz-buzz) |
 | [0486-predict-the-winner](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0486-predict-the-winner) |
 | [0836-rectangle-overlap](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0836-rectangle-overlap) |
@@ -361,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0002-add-two-numbers) |
 | [0203-remove-linked-list-elements](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0203-remove-linked-list-elements) |
+| [0231-power-of-two](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0234-palindrome-linked-list) |
 | [0486-predict-the-winner](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0486-predict-the-winner) |
 | [3483-unique-3-digit-even-numbers](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/3483-unique-3-digit-even-numbers) |
@@ -380,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0187-repeated-dna-sequences) |
+| [0231-power-of-two](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0231-power-of-two) |
 | [0491-non-decreasing-subsequences](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0491-non-decreasing-subsequences) |
 | [0898-bitwise-ors-of-subarrays](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0898-bitwise-ors-of-subarrays) |
 | [1386-cinema-seat-allocation](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/1386-cinema-seat-allocation) |
