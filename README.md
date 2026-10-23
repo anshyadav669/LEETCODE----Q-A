@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0004-median-of-two-sorted-arrays) |
+| [0016-3sum-closest](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0016-3sum-closest) |
 | [0056-merge-intervals](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0063-unique-paths-ii) |
 | [0068-text-justification](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0068-text-justification) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0016-3sum-closest) |
 | [0056-merge-intervals](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0056-merge-intervals) |
 | [0179-largest-number](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0179-largest-number) |
 | [0220-contains-duplicate-iii](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0220-contains-duplicate-iii) |
@@ -369,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0016-3sum-closest) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0142-linked-list-cycle-ii](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0151-reverse-words-in-a-string) |
