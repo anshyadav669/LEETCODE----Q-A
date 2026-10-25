@@ -283,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0022-generate-parentheses) |
 | [0063-unique-paths-ii](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0063-unique-paths-ii) |
+| [0070-climbing-stairs](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0115-distinct-subsequences) |
 | [0416-partition-equal-subset-sum](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0486-predict-the-winner) |
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0009-palindrome-number) |
+| [0070-climbing-stairs](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0231-power-of-two) |
 | [0412-fizz-buzz](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0412-fizz-buzz) |
@@ -547,5 +549,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/0070-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/anshyadav669/LEETCODE----Q-A/tree/master/1137-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
